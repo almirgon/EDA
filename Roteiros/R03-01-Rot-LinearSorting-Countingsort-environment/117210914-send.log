@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-04T14:28:47.704-0300</date>
+  <logger>ALMIR GONCALVES CRISPINIANO</logger>
+  <level>FINE</level>
+  <message>File 117210914-ALMIR GONCALVES CRISPINIANO.zip was received. It was sent by ALMIR GONCALVES CRISPINIANO from IP 150.165.42.123</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-04T23:40:32.897-0300</date>
+  <logger>ALMIR GONCALVES CRISPINIANO</logger>
+  <level>FINE</level>
+  <message>File 117210914-ALMIR GONCALVES CRISPINIANO.zip was received. It was sent by ALMIR GONCALVES CRISPINIANO from IP 192.168.15.6</message>
+</record>
